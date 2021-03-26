@@ -1,0 +1,48 @@
+{
+    "place": [
+        {
+            "property": {
+                "id": 0,
+                "name": "Glasgow",
+                "desc": "SEC Centre",
+                "start": "10AM",
+                "end": "5PM",
+                "long": 55.869504952695166,
+                "lat": -4.24996924288314
+            }
+        },
+        {
+            "property": {
+            "id": 1,
+            "name": "Manchester",
+            "desc": "The Grange Community Resource Centre",
+            "start": "8AM",
+            "end": "1PM",
+            "long": 53.483156290905534,
+            "lat": -2.243033059918869
+            }
+        },
+        {
+            "property": {
+                "id": 2,
+                "name": "Edinburgh",
+                "desc": "Edinburgh Castle",
+                "start": "11AM",
+                "end": "5PM",
+                "long": 55.93357097242488,
+                "lat": -3.2132535375866866
+            }
+        },
+        {
+            "property": {
+            "id": 3,
+            "name": "London",
+            "desc": "London Eye",
+            "start": "1PM",
+            "end": "9PM",
+            "long": 51.52318157211633,
+            "lat": -0.12907720205617035
+            }
+        }
+    ]
+}
