@@ -42,7 +42,7 @@ function App() {
   <div className="div-img" /></div>
 
   const  navClick =()=>{
-    toast(<Img />,{autoClose: false})
+    toast(<Img />,{autoClose: 4000})
   }
   
   return (
