@@ -387,4 +387,5 @@ Yellow -
 	/* outline: 1px solid red; */
 	height: 100% !important;
 	width: 100% !important;
+	outline: 1px solid red !important;
 }
