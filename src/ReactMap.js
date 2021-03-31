@@ -32,7 +32,7 @@ function ReactMap() {
             <ReatMapGL
                 {...viewport}
                 mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
-                mapStyle="mapbox://styles/cfman29/ckmqje5ht0ww117l939q8zl3r"
+                mapStyle="mapbox://styles/cfman29/ckmxf463r0rlp17o3oydn87ic"
                 onViewportChange={viewport => {
                 setViewport(viewport)
             }}>
